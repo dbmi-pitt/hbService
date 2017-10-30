@@ -6,7 +6,7 @@ The purpose of this web service is to bridge the gap between mulitple data sourc
 This was a learning experience for myself in RESTful Java Web Services, so the structure and function are basic. 
 It includes the basic CRUD functionality, which was tested exclusively on the Postman web client. 
 
-The current state of the project does not include the UPMC plugins to utilize the EMPI tools through the ESB.   
+The current state of the project does not include the UPMC plugins to utilize the EMPI tools through the ESB. The ESB tools can be found in the main src directory path as ESB.zip. Included is a EMPITest.java which runs a sample test of the ESB tools using mock data.   
 
 ## Getting Started
 The project was built in Eclipse so the instructions below are based on the Eclipse IDE and the tests were done in Postman.
